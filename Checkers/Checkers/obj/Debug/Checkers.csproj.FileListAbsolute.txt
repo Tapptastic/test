@@ -1,0 +1,6 @@
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\bin\Debug\Checkers.exe.config
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\bin\Debug\Checkers.exe
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\bin\Debug\Checkers.pdb
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\obj\Debug\Checkers.exe
+c:\users\grant\documents\visual studio 2013\Projects\Checkers\Checkers\obj\Debug\Checkers.pdb
